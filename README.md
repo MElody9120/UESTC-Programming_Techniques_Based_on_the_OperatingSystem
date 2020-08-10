@@ -1,10 +1,9 @@
-#UESTC-Progtamming_Techniques_Based_On_The_OperatingSystem
+# UESTC-Progtamming_Techniques_Based_On_The_OperatingSystem
+---
+OH!~~~~~ OH ~ (:D
 
-OH!~~~~~OH~ (:D
-
-
-##实验部分
-
+## 实验部分
+---
 Test1
 
 讨论O_APPEND 对 lseek 函数的影响，在设置O_APPEND标志后，lseek 函数的对读写文件是否能像没有设置标志时一样修改
